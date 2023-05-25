@@ -1,0 +1,40 @@
+[22-Apr-2022 22:54:52 America/New_York] PHP Warning:  include(dashboard/Layout/config.php): failed to open stream: No such file or directory in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:54:52 America/New_York] PHP Warning:  include(dashboard/Layout/config.php): failed to open stream: No such file or directory in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:54:52 America/New_York] PHP Warning:  include(): Failed opening 'dashboard/Layout/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  include(dashboard/Layout/config.php): failed to open stream: No such file or directory in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  include(dashboard/Layout/config.php): failed to open stream: No such file or directory in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  include(): Failed opening 'dashboard/Layout/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:02 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 4
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 4
+[22-Apr-2022 22:55:02 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 5
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 5
+[22-Apr-2022 22:55:02 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 8
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 8
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 9
+[22-Apr-2022 22:55:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 10
+[22-Apr-2022 22:55:02 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 11
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 11
+[22-Apr-2022 22:55:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 12
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  include(dashboard/Layout/config.php): failed to open stream: No such file or directory in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  include(dashboard/Layout/config.php): failed to open stream: No such file or directory in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  include(): Failed opening 'dashboard/Layout/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 2
+[22-Apr-2022 22:55:35 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 4
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 4
+[22-Apr-2022 22:55:35 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 5
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 5
+[22-Apr-2022 22:55:35 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 8
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 8
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 9
+[22-Apr-2022 22:55:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 10
+[22-Apr-2022 22:55:35 America/New_York] PHP Notice:  Undefined variable: con in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 11
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 11
+[22-Apr-2022 22:55:35 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 12
+[30-Apr-2022 14:24:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/aetsiskh/ayush.aetsmsoft.com/admin/index.php on line 10
+[09-Jul-2022 07:41:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[09-Jul-2022 11:25:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[09-Jul-2022 11:25:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[09-Jul-2022 13:02:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[09-Jul-2022 16:36:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[09-Jul-2022 16:36:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[10-Jul-2022 01:48:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10
+[16-Jul-2022 00:21:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/aetsiskh/saad.aetsmsoft.com/admin/index.php on line 10

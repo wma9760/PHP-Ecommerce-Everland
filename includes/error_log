@@ -1,0 +1,10 @@
+[16-Jul-2022 11:28:41 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user_id' in 'where clause' in /home/aetsiskh/saad.aetsmsoft.com/includes/cart-item.php:50
+Stack trace:
+#0 /home/aetsiskh/saad.aetsmsoft.com/includes/cart-item.php(50): mysqli->prepare()
+#1 {main}
+  thrown in /home/aetsiskh/saad.aetsmsoft.com/includes/cart-item.php on line 50
+[16-Jul-2022 11:36:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user_id' in 'where clause' in /home/aetsiskh/saad.aetsmsoft.com/includes/cart-item.php:50
+Stack trace:
+#0 /home/aetsiskh/saad.aetsmsoft.com/includes/cart-item.php(50): mysqli->prepare()
+#1 {main}
+  thrown in /home/aetsiskh/saad.aetsmsoft.com/includes/cart-item.php on line 50
